@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_inicio"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/Inicio" />
+
+    <item
+        android:id="@+id/navigation_viajes"
+        android:icon="@drawable/journal_text"
+        android:title="@string/MisViajes" />
+
+    <item
+        android:id="@+id/navigation_perfil"
+        android:icon="@drawable/person_circle"
+        android:title="@string/mi_perfil" />
+
+</menu>
